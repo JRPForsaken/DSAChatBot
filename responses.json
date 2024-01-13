@@ -1,0 +1,44 @@
+{
+    "responses": {
+      "payment": {
+        "intro": "Thank you for choosing us! We offer various payment options to cater to your needs.",
+        "options": ["Cash-on-Delivery", "Gcash", "Bank Transfers and Checks"],
+        "hope_to_add": ["1 PayMaya", "2 7-Eleven services"],
+        "customer_response": ["Glad to hear that! Thanks for using our services!", "I have a different issue…"],
+        "issue_responses": [
+          "If it’s through banking or other financial apps such as Gcash, please contact them to see if the transaction went through to avoid double orders.",
+          "Please double-check if your transaction went through if paying via banking and/or financial apps such as Gcash."
+        ]
+      },
+      "delivery": {
+        "intro": "We offer delivery services within Metro Manila NCR with no extra costs. Deliveries outside Metro Manila may have an additional charge.",
+        "customer_response": ["Glad to hear that! Thanks for using our services!", "I have a different issue…"],
+        "issue_responses": ["To track your delivery, download our app and use the track delivery feature."]
+      },
+      "seasonal_availability": {
+        "intro": "Due to seasonal variations, some flowers may only be available at specific times of the year.",
+        "social_media": {
+          "facebook": "[Your Facebook Page Link]",
+          "twitter": "[Your Twitter Page Link]",
+          "instagram": "[Your Instagram Page Link]"
+        }
+      },
+      "contact_information": {
+        "intro": "If your questions are not addressed through our social media outlets, please contact our staff for assistance.",
+        "telephone_numbers": {
+          "business": "[Your Business Telephone Number]",
+          "alternative": "[Alternative Phone Number]"
+        },
+        "social_media_link": "[Your Social Media Link]"
+      },
+      "other_faq": {
+        "intro": "For other frequently asked questions, check out our FAQ section on our website.",
+        "faq_link": "[Link to Your FAQ Section]"
+      },
+      "feedback": {
+        "intro_low_rating": "Seems like your rating is on the lower side. How can we improve our service?",
+        "intro_high_rating": "Seems like you like our services. How can we improve further?",
+        "user_response": "Thank you for your response! We will use your feedback to better improve our services."
+      }
+    }
+  }
